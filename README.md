@@ -1,0 +1,1 @@
+Um projeto feito para a matéria de Desenvolvimento de Sistemas na FATEC Araraquara em 2022. O foco da atividade foi a separação do projeto em objetos, com uso de herança, encapsulamento e polimorfismo.
