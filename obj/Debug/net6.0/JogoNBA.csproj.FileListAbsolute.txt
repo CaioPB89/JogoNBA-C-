@@ -1,0 +1,15 @@
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/JogoNBA
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/JogoNBA.deps.json
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/JogoNBA.runtimeconfig.json
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/JogoNBA.dll
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/ref/JogoNBA.dll
+/home/caio/Facul/3-Quar/JogoNBA/bin/Debug/net6.0/JogoNBA.pdb
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.csproj.AssemblyReference.cache
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.AssemblyInfoInputs.cache
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.AssemblyInfo.cs
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.csproj.CoreCompileInputs.cache
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.dll
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/ref/JogoNBA.dll
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.pdb
+/home/caio/Facul/3-Quar/JogoNBA/obj/Debug/net6.0/JogoNBA.genruntimeconfig.cache
